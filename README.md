@@ -1,2 +1,2 @@
 # learning_git
-this is a test repo for practising git
+this is a repo for practising git
